@@ -6,6 +6,7 @@ Then We Win is an organization that uses data, knowledge, and meaning, to change
 
 # Part 1: The Symantec web - The Midi-chlorians of knowledge
 > "Data is created by all living things. It surrounds us and penetrates us; it binds the galaxy together" - Obi-Wan Kenobi
+
 We're sure you've heard about this mystical force known as "data". You've probably heard you leave a trail of data wherever you go, that science will soon use data to cure cancer, end poverty, bring about world peace, improve games, teach us how to be better parents, friends, and even how to love.
 
 Mmmkay. How?
